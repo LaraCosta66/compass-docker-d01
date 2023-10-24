@@ -1,4 +1,4 @@
-### Desafio 01 - Trilha DevSecOps na CompassUOL - Sprint 2
+# Desafio 01 - Trilha DevSecOps na CompassUOL - Sprint 2
 ![Compass-logo](./images/compass-uol.png)
 # Instalar Docker
 
